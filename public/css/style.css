@@ -1,0 +1,60 @@
+*{
+    margin : 0;
+    padding : 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: Cambria;
+    padding: 0 4em 0 4em;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+button{
+    padding: 6px 24px;
+    margin: 4px 16px;
+}
+
+button:hover{
+
+}
+
+section{
+    margin: 2em;
+    padding: 1em;
+    background-color: blanchedalmond;
+}
+
+header{
+    color: darkblue;
+}
+
+nav {
+    background-color: burlywood;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    padding: 6px 16px;
+    display: inline-block;
+}
+
+.nav_menu{
+    padding: 6px 16px;
+    background-color: burlywood;
+    color: brown;
+}
+
+.nav_menu:hover{
+    background-color: cornflowerblue;
+}
